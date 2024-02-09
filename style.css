@@ -1,0 +1,13 @@
+.project { 
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.button {
+   background-color: #4CAF50; /* Example - Match your color scheme */
+   color: white;
+   padding: 10px 15px;
+   border: none;
+   text-decoration: none; 
+}
