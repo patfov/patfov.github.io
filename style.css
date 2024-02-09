@@ -39,6 +39,18 @@ a:hover {
     background-color: #115fa6; /* Slightly darker blue on hover */
 }
 
+/* Navigation Styling */
+.nav-links {
+    list-style-type: none;  /* Removes bullet points from the list */
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    display: inline;      /* Makes list items display inline */
+    margin-right: 25px;   /* Adjust this for spacing between links */
+}
+
 /* Project Section */
 .project { 
     border: 1px solid #eee;
